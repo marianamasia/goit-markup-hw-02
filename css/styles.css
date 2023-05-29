@@ -38,7 +38,24 @@ a {
   width: 71px;
 }
 
-.header-logo-studio {
+.footer-logo {
+  font-family: "Raleway", sans-serif;
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #4d5ae5;
+  width: 71px;
+}
+
+.header-logo-studio,
+.footer-logo-studio {
+  font-family: 'Raleway', sans-serif;
+font-style: normal;
+font-weight: 800;
+font-size: 18px;
+line-height: 1.17;
   color: var(--title-color);
   width: 44px;
 }
@@ -175,6 +192,11 @@ background-color: #FFFFFF
 
 .footer-logo {
 color: #f4f4fd;
+}
+
+.footer-logo-studio {
+color: var(--portfolio-btn-color);
+width: 44px;
 }
 
 .footer-text {
