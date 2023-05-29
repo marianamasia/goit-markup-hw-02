@@ -190,10 +190,6 @@ background-color: #FFFFFF
   background-color: var(--title-color);
 }
 
-.footer-logo {
-color: #f4f4fd;
-}
-
 .footer-logo-studio {
 color: var(--portfolio-btn-color);
 width: 44px;
