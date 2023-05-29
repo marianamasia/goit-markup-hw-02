@@ -51,11 +51,11 @@ a {
 
 .header-logo-studio,
 .footer-logo-studio {
-  font-family: 'Raleway', sans-serif;
-font-style: normal;
-font-weight: 800;
-font-size: 18px;
-line-height: 1.17;
+  font-family: "Raleway", sans-serif;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 1.17;
   color: var(--title-color);
   width: 44px;
 }
@@ -80,7 +80,7 @@ line-height: 1.17;
 .adress {
   font-style: normal;
   line-height: 1.5;
-  letter-spacing: 0.02em
+  letter-spacing: 0.02em;
   color: #434455;
 }
 
@@ -96,6 +96,8 @@ line-height: 1.17;
 
 .address-list {
   font-style: normal;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
 }
 
 /**---------------------MAIN---------------------*/
@@ -111,7 +113,7 @@ line-height: 1.17;
 }
 
 .hero-button {
-  font-family: "Roboto", sans-serif; 
+  font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -145,35 +147,32 @@ line-height: 1.17;
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
-  text-align: center;
   letter-spacing: 0.02em;
   text-transform: capitalize;
   color: var(--title-color);
 }
 
 .team {
-background-color: #F4F4FD;
+  background-color: #f4f4fd;
 }
 
 .team-maintitle {
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
-  text-align: center;
   letter-spacing: 0.02em;
   text-transform: capitalize;
   color: var(--title-color);
 }
 
 .team-list {
-background-color: #FFFFFF
+  background-color: #ffffff;
 }
 
 .team-title {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
-  text-align: center;
   letter-spacing: 0.02em;
   color: var(--title-color);
 }
@@ -181,7 +180,6 @@ background-color: #FFFFFF
 .team-text {
   font-size: 16px;
   line-height: 1.5;
-  text-align: center;
   letter-spacing: 0.02em;
   color: var(--main-text-color);
 }
@@ -191,27 +189,27 @@ background-color: #FFFFFF
 }
 
 .footer-logo-studio {
-color: var(--portfolio-btn-color);
-width: 44px;
+  color: var(--portfolio-btn-color);
+  width: 44px;
 }
 
 .footer-text {
-line-height: 1.5;
-color: var(--portfolio-btn-color);
-letter-spacing: 0.02em;
+  line-height: 1.5;
+  color: var(--portfolio-btn-color);
+  letter-spacing: 0.02em;
 }
 
 /**--------------------Portfolio-----------------*/
 
 .portfolio-button {
-  font-family: "Roboto", sans-serif; 
+  font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
-  text-align: center;
   letter-spacing: 0.04em;
   color: var(--hover-btn-color);
   cursor: pointer;
+  background-color: var(--portfolio-btn-color);
 }
 
 .portfolio-button:hover {
@@ -220,7 +218,7 @@ letter-spacing: 0.02em;
 }
 
 .portfolio-button:focus {
-  color: #404bbf; 
+  color: #ffffff;
 }
 
 .rows-title {
