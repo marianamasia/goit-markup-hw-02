@@ -163,7 +163,7 @@ ul {
 /*----------MADE-----------*/
 
 .made {
-  background: var(--safari-color);
+  background-color: var(--safari-color);
 }
 
 .made-team {
@@ -201,7 +201,7 @@ ul {
 /*----------FOOTER-----------*/
 
 .footer {
-  background: var(--logo-color);
+  background-color: var(--logo-color);
 }
 
 .footer-name {
