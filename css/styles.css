@@ -100,7 +100,7 @@ a {
 /**---------------------MAIN---------------------*/
 
 .hero {
-  background-color: var(--title-color);
+  background-color: #2e2f42;
 }
 
 .hero-title {
