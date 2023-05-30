@@ -35,7 +35,6 @@ a {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
-  width: 71px;
 }
 
 .footer-logo {
@@ -46,7 +45,6 @@ a {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
-  width: 71px;
 }
 
 .header-logo-studio,
@@ -57,7 +55,6 @@ a {
   font-size: 18px;
   line-height: 1.17;
   color: var(--title-color);
-  width: 44px;
 }
 
 .header-menu-link {
@@ -192,7 +189,6 @@ a {
 
 .footer-logo-studio {
   color: var(--portfolio-btn-color);
-  width: 44px;
 }
 
 .footer-text {
