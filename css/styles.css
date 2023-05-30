@@ -99,6 +99,10 @@ a {
 
 /**---------------------MAIN---------------------*/
 
+.hero {
+  background-color: var(--title-color);
+}
+
 .hero-title {
   font-weight: 700;
   font-size: 56px;
@@ -165,6 +169,10 @@ a {
 }
 
 .team-list {
+  background-color: #ffffff;
+}
+
+.team-item {
   background-color: #ffffff;
 }
 
